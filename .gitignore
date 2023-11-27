@@ -2,6 +2,9 @@
 /dist
 /node_modules
 
+# Test database
+*.sqlite
+
 # Logs
 logs
 *.log
